@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "attinyfan-rescue")(type "Legacy")(uri "${KIPRJMOD}/attinyfan-rescue.lib")(options "")(descr ""))
+)
